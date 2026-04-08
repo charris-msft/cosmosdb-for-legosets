@@ -1,6 +1,6 @@
 # 🧱 cosmosdb-for-legosets
 
-[![azd compatible](https://img.shields.io/badge/azd-compatible-blue?logo=microsoft-azure)](https://learn.microsoft.com/azure/developer/azure-developer-cli/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![azd compatible](https://img.shields.io/badge/azd-compatible-blue?logo=microsoft-azure)](https://learn.microsoft.com/azure/developer/azure-developer-cli/) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 > **One command to a fully loaded Cosmos DB** — an Azure Developer CLI (`azd`) template that provisions an Azure Cosmos DB (serverless, NoSQL API) database and populates it with **21,503 LEGO sets** spanning 1949–2023.
 
@@ -140,4 +140,4 @@ cosmosdb-for-legosets/
 
 ## 📄 License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details. The LEGO dataset is CC0 (public domain).
+This project is licensed under the Apache License 2.0 — see [LICENSE](LICENSE) for details. The LEGO dataset is CC0 (public domain).
