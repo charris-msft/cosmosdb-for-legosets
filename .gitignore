@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.azure/
+*.egg-info/
+dist/
+build/
+.venv/
